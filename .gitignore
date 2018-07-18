@@ -25,3 +25,5 @@
 /.nb-gradle/
 
 /out/
+
+.DS_Store
