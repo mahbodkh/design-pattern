@@ -27,6 +27,11 @@ public class Cat extends Animal {
     }
 
     @Override
+    public String getColor() {
+        return "the color";
+    }
+
+    @Override
     public String toString() {
         return "Cat{" +
                 "color='" + color + '\'' +
