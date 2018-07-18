@@ -20,4 +20,8 @@ Structural Design Patterns :
 
 `Facade`
 
+`Decorator`
+
+`Proxy`
+
 Behavioral Design Patterns :
