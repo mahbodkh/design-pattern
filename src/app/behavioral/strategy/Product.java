@@ -1,5 +1,9 @@
 package app.behavioral.strategy;
 
+/*
+ * created by Mahbod Kh with ❤️.
+ */
+
 public class Product {
 
     private int price;

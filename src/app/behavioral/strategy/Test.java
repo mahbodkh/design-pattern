@@ -17,6 +17,7 @@ public class Test {
 
 
         cart.pay(new MellatStrategy("mahbod@gmail.com", "123456"));
+        cart.pay(new PassargadStrategy("mahbod@gmail.com", "123456"));
 
         cart.pay(new CreditCardStrategy("Mahbod", "1234567890123456", "786", "09/99"));
     }

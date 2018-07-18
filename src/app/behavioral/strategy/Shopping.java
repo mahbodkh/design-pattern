@@ -3,6 +3,10 @@ package app.behavioral.strategy;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+ * created by Mahbod Kh with ❤️.
+ */
+
 public class Shopping {
 
     List<Product> products;
