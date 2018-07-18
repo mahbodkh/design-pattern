@@ -18,4 +18,6 @@ Structural Design Patterns :
 
 `Composite`
 
+`Facade`
+
 Behavioral Design Patterns :
