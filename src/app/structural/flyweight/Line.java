@@ -2,6 +2,10 @@ package app.structural.flyweight;
 
 import java.awt.*;
 
+/*
+ * created by Mahbod Kh with ❤️.
+ */
+
 public class Line implements Shape {
 
     public Line() {

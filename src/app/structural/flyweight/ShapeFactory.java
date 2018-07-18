@@ -2,6 +2,10 @@ package app.structural.flyweight;
 
 import java.util.HashMap;
 
+/*
+ * created by Mahbod Kh with ❤️.
+ */
+
 public class ShapeFactory {
 
     private static final HashMap<ShapeType, Shape> shapes = new HashMap<ShapeType, Shape>();
