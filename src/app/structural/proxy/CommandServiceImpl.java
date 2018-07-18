@@ -9,6 +9,6 @@ public class CommandServiceImpl implements CommandService {
     @Override
     public void runCommand(String command) throws Exception {
         Runtime.getRuntime().exec(command);
-        System.out.println(" : " + command + ": command executed.");
+        System.out.println(" :" + command + ": command executed.");
     }
 }
