@@ -5,8 +5,6 @@ package app.behavioral.command;
  */
 
 
-import app.behavioral.command.action.Command;
-
 public class FileInvoker {
 
     public Command command;

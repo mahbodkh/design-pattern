@@ -1,4 +1,4 @@
-package app.behavioral.command.action;
+package app.behavioral.command;
 
 /*
  * created by Mahbod Kh with ❤️.
