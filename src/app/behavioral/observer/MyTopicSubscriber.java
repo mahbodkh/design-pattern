@@ -10,8 +10,8 @@ public class MyTopicSubscriber implements Observer {
     private String name;
     private Subject topic;
 
-    public MyTopicSubscriber(String nm) {
-        this.name = nm;
+    public MyTopicSubscriber(String name) {
+        this.name = name;
     }
 
     @Override
