@@ -1,5 +1,9 @@
 package app.behavioral.mediator;
 
+/*
+ * created by Mahbod Kh with ❤️.
+ */
+
 public class UserImpl extends User {
 
     public UserImpl(ChatMediator med, String name) {

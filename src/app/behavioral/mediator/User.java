@@ -1,5 +1,9 @@
 package app.behavioral.mediator;
 
+/*
+ * created by Mahbod Kh with ❤️.
+ */
+
 public abstract class User {
     protected ChatMediator mediator;
     protected String name;
