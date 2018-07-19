@@ -1,6 +1,6 @@
 # design-pattern
 
-Creational Design Patterns :
+    Creational Design Patterns :   
 
 `Singleton`
 
@@ -12,23 +12,23 @@ Creational Design Patterns :
 
 `Prototype`
 
-Structural Design Patterns :
+    Structural Design Patterns :
 
-     Adapter
-    
-     Composite
-    
-     Facade
-    
-     Decorator
-    
-     Proxy
-    
-     Bridge
-    
-     Flyweight 
+`Adapter`
 
-Behavioral Design Patterns :
+`Composite`
+
+`Facade`
+
+`Decorator`
+
+`Proxy`
+
+`Bridge`
+
+`Flyweight`
+
+    Behavioral Design Patterns :
 
 `Template Method`
 
