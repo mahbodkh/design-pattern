@@ -24,4 +24,19 @@ Structural Design Patterns :
 
 `Proxy`
 
+`Bridge`
+
+`Flyweight`
+
 Behavioral Design Patterns :
+
+`Template Method`
+
+`Mediator`
+
+`Observer`
+
+`Strategy`
+
+`Command`
+
