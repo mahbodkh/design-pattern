@@ -14,19 +14,19 @@ Creational Design Patterns :
 
 Structural Design Patterns :
 
-`Adapter`
-
-`Composite`
-
-`Facade`
-
-`Decorator`
-
-`Proxy`
-
-`Bridge`
-
-`Flyweight`
+     Adapter
+    
+     Composite
+    
+     Facade
+    
+     Decorator
+    
+     Proxy
+    
+     Bridge
+    
+     Flyweight 
 
 Behavioral Design Patterns :
 
