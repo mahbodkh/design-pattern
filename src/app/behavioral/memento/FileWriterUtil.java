@@ -36,6 +36,7 @@ public class FileWriterUtil {
 
 
     private class Memento {
+
         private String fileName;
         private StringBuilder content;
 
