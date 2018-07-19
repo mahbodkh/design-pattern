@@ -1,5 +1,10 @@
 package app.behavioral.observer;
 
+/*
+ * created by Mahbod Kh with ❤️.
+ */
+
+
 public class MyTopicSubscriber implements Observer {
 
     private String name;

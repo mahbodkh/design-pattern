@@ -3,6 +3,11 @@ package app.behavioral.observer;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+ * created by Mahbod Kh with ❤️.
+ */
+
+
 public class MyTopic implements Subject {
 
     private final Object MUTEX = new Object();
