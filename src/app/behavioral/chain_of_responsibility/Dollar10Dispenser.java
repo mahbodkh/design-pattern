@@ -1,5 +1,9 @@
 package app.behavioral.chain_of_responsibility;
 
+/*
+ * created by Mahbod Kh with ❤️.
+ */
+
 public class Dollar10Dispenser implements DispenseChain {
 
     private DispenseChain chain;
