@@ -39,4 +39,16 @@
 `Strategy`
 
 `Command`
+    
+`Interpreter`
+
+`Iterator`
+
+`Memento`
+
+`Stage`
+
+`Visitor¬`
+
+`Chain Of Responsibility`
 
