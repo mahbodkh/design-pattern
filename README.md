@@ -48,7 +48,7 @@
 
 `Stage`
 
-`Visitor¬`
+`Visitor`
 
 `Chain Of Responsibility`
 
